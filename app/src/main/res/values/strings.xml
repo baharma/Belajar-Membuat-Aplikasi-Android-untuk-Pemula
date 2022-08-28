@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Pemula_android</string>
+    <string name="app_name">Pokemon Go</string>
+    <string name="pokemon_name">Pokemon name</string>
+    <string name="heroes_name">Pokemon name</string>
+    <string name="tipe">Jenis</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="person">Person</string>
+    <string name="favorite">Detail</string>
+    <string name="share">share</string>
+    <string name="description">description</string>
+    <string name="Evolusi">Evolusi Pokemon :</string>
+    <string name="aditya_baharma">Aditya Baharma</string>
+    <string name="bagusaditya1899_gmail_com">bagusaditya1899@gmail.com</string>
 </resources>
